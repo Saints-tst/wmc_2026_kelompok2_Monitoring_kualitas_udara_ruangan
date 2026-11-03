@@ -161,10 +161,9 @@ Penyimpanan memakai **datastream Blynk Cloud** (bukan basis data relasional) yan
 | Nama | NIM | Peran |
 |------|-----|-------|
 | Maulidzhan Syam Ikraam | 23210095 | Rangkaian simulasi Wokwi, generator data sensor virtual, parameter kurva konversi |
-| Muhammad Fayyadh Alghifari | 23210010 | Pemrograman ESP32 (pembacaan, konversi, klasifikasi, rata-rata per jam, pengiriman ke Blynk) |
-| Asmarudin | 23210133 | Konfigurasi Blynk (template, datastream, perangkat, dashboard) |
-| Rahmad Fadli | 23210129 | Pengujian dan analisis data |
-| Darmawansya | 23210080 | Dokumentasi dan penyusunan laporan |
+| Muhammad Fayyadh Alghifari | 23210010 | Pemrograman ESP32 (pembacaan, konversi, klasifikasi, rata-rata per jam, pengiriman ke Blynk) Konfigurasi Blynk (template, datastream, perangkat, dashboard) |
+| Rahmad Fadli | 23210129 | Dokumentasi Pengujian dan analisis data |
+| Darmawansya | 23210080 | Penyusunan laporan |
 
 ## 🏫 Institusi
 
