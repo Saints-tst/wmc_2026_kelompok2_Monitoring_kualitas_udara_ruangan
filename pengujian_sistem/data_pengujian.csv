@@ -1,0 +1,8 @@
+Name,Pin,Data type,Semantics,Min,Max,Default,Units,Automations
+Temperature,V0,Double,,-40,80,,'--,None
+Battery,V1,Integer,,0,100,0,'--,None
+Pressure,V2,Double,,0,1100,,'--,None
+Humidity,V3,Integer,,0,100,,'--,None
+Gas_resistance,V4,Integer,,0,100000000,0,'--,None
+IAQ,V5,Integer,,0,500,0,'--,None
+Air Quality Image,V6,Integer,,0,5,0,'--,None
